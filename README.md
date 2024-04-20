@@ -10,13 +10,14 @@ You need to have a valid email account with your SMTP server information.
 
 Generally, this information includes:
 
-The SMTP server address;
-The shipping port;
-Your credentials (username and password).
+-The SMTP server address;
+-The shipping port;
+-Your credentials (username and password).
 
 In the code "automatizando_emails_com_python", it will demonstrate how to make the connections and send examples.
 For more information about the libraries used, visit the org page of each one.
 Thanks!
+
 
 DESCRIÇÃO EM PORTUGUÊS:
 Enviar emails é uma tarefa muito útil em várias aplicações, como envio de notificações, newsletters e mensagens automatizadas.
@@ -29,9 +30,9 @@ Você precisa ter uma conta de email válida com as informações do seu servido
 
 Geralmente, essas informações incluem:
 
-O endereço do servidor SMTP;
-A porta de envio;
-Suas credenciais (usuário e senha).
+-O endereço do servidor SMTP;
+-A porta de envio;
+-Suas credenciais (usuário e senha).
 
 No código a "automatizando_emails_com_python", irá demonstar como fazer as conexões e exemplos de envios.
 Para mais informações sobre as bibliotecas utilizadas, entre na página org de cada uma delas.
