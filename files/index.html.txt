@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Teste</title>
+</head>
+<body>
+    <div>
+        <h4 style="font-family: Arial, Helvetica, sans-serif; color:#000000">Olá, boa noite</h4>
+        <p>Somos da empresa xxxxxx estamos expandindo a nossa empresa</p>
+        <p>Gostaria de saber se você tem interesse em participar de uma conversa com a gente</p>
+        <p>Fico no aguardo do seu retorno</p>
+        <p>Att,</p>
+        <h5>Dpto RH XYZ Automação</h5>
+        <h5>Fone (xx) xxxxx-xxxx</h5>
+        <h5>E-mail: rh@xxxxx-xxxx.com</h5>
+    </div>
+    <div style="padding: 40px 0px;">
+        <div style="height: 500px; width: 400px;">
+            <img src="https://uploads-ssl.webflow.com/645baaf6d280a237e2676a09/6495df55e2ece21b709cb949_obcproicon.jpg" alt="">
+            <a target="_blank" href="https://pro.onebitcode.com">OBC Pro</a>
+        </div>
+    </div>
+</body>
+</html>
